@@ -33,7 +33,6 @@ customer-churn-project/
 ├── dashboard.py               # Streamlit dashboard
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # This file
-├── COMPLETE_PROJECT_DOCUMENTATION.md  # Full documentation
 └── .gitignore
 ```
 
@@ -182,10 +181,5 @@ This project is open source and available under the MIT License.
 - Inspiration: Real-world telecom churn problem
 - Tools: Anthropic Claude for guidance
 
-## 📚 Documentation
-
-For complete project documentation, see [COMPLETE_PROJECT_DOCUMENTATION.md](COMPLETE_PROJECT_DOCUMENTATION.md)
-
----
 
 **⭐ If you found this project helpful, please give it a star!**
